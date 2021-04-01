@@ -68,7 +68,7 @@ int kill(pid_t, int signal);
 >ESRCH：参数pid所指定的进程或进程主不存在。<br>
 
 常用信号表：<br>
-
+![](img/信号表.png)
 
 ## 8、进程通讯
 进程通讯方式：<br>
